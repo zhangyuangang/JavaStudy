@@ -25,6 +25,9 @@ hs_err_pid*
 
 
 # IDEA
+.git/*
+.idea/*
+out/*
 *.iml
 *.idea
 *.gitignore
@@ -34,3 +37,6 @@ hs_err_pid*
 *.settings
 target
 logs
+.idea/vcs.xml
+.idea/workspace.xml
+.idea/vcs.xml

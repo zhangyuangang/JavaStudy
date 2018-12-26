@@ -1,6 +1,6 @@
 package com.phil;
 
-public class Singleton7KingsOf {
+public class 七种单例模式 {
     /** 
      * 单例模式，饿汉式，线程安全
      */  
